@@ -1,6 +1,6 @@
 public class BinarySearch{
-    public static void name() {
-        int[] nums = {0,1,2,3,45,6,78,9,} ;
+    public static void main(String[] args) {
+        int[] nums = {0,1,2,3,5,6,78,9,} ;
         int target = 5 ;
 
         System.out.println(binarySearch(nums , target));
